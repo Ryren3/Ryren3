@@ -8,10 +8,10 @@ I specialize in data analytics using ML and Deep learning models, with special i
 --
 ## Education and Skills
 
-**Undergraduate:** BSc Data Science (Hons) with First Class
-**Courses:** Data science and Machine Learning: Making Data-Driven Decision by MIT IDSS
-**Skills:** Probability and Statisitcs, Advanced Machine Learning, Time Series, Big Data Management, Data Visualization
-**Languages:** Python (Pandas, NumPy, Scikit-Learn, XGBoost), SQL, R
+- **Undergraduate:** BSc Data Science (Hons) with First Class
+- **Courses:** Data science and Machine Learning: Making Data-Driven Decision by MIT IDSS
+- **Skills:** Probability and Statisitcs, Advanced Machine Learning, Time Series, Big Data Management, Data Visualization
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn, XGBoost), SQL, R
 
 --
 
