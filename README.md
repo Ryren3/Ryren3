@@ -26,7 +26,7 @@ This project aims to forecast future bitcoin price using LSTM and LSTM-XGboost h
 **Link:**[https://github.com/Ryren3/Bitcoin-Forecasting-using-Deep-Learning-Models
 ](https://github.com/Ryren3/Bitcoin-Forecasting-using-Deep-Learning-Models)
 
-### Student Performance Prediction
+### Student Performance Prediction 
 Prediction student performance category (High, Medium, Low) using various academic, life-style, AI usage features. 
 **Link:** https://github.com/Ryren3/Student-Performance
 
