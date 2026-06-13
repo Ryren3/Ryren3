@@ -3,7 +3,7 @@ Welcome to my Github where I have posted projects that piqued my interest. The p
 
 --
 ## Intersts and Aspirations
-I specialize in data analytics using ML and Deep learning models, with special interest in financial applications. 
+I specialize in leveraging advanced Machine Learning and Deep Learning architectures to resolve complex, real-world analytical problems, with a core technical focus on financial market applications and algorithmic trading frameworks.
 
 --
 ## Education and Skills
