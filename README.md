@@ -23,7 +23,7 @@ A quantitative research project that investigates the optimal RSI threshold to i
 
 ### Bitcoin forecasting using LSTM and LSTM-XGBoost Model
 An advanced time-series forecasting pipeline designed to predict highly volatile cryptocurrency price trajectories, especially in bitcoin. 
-* **Link:**[https://github.com/Ryren3/Bitcoin-Forecasting-using-Deep-Learning-Models]
+* **Link:** https://github.com/Ryren3/Bitcoin-Forecasting-using-Deep-Learning-Models
 
 ### Student Performance Prediction 
 A prediction projects that classifies students into 3 performance category (High, Medium, Low) from academic, lifestyle and AI features using tree models (Decision Trees, Random Forest, and XGBoost). 
